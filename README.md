@@ -43,7 +43,7 @@
 
 ###
 
-<h3 align="left">🛠 Моя статистика:</h3>
+<h3 align="left">🔥 Моя статистика:</h3>
 
 ###
 <div align="left">

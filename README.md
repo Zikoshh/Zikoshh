@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://t.me/Zikoshhn">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" />
   </a>
 </div>
 
@@ -31,7 +31,14 @@
 ###
 
 <div align="left">
-  
+  <img src="https://img.shields.io/badge/react-%2320232a?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/html-%23e34f26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%2320232a?style=for-the-badge&logo=javascript&logoColor=%23F0DB4F" />
+  <img src="https://img.shields.io/badge/npm-%2320232a?style=for-the-badge&logo=npm" />
+  <img src="https://img.shields.io/badge/git-%2320232a?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/mui-%230f1214?style=for-the-badge&logo=mui" />
 </div>
 
 ###

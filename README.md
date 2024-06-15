@@ -44,7 +44,6 @@
   <img src="https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3" />
   <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-%2320232a?style=for-the-badge&logo=javascript&logoColor=%23F0DB4F" />
-  <img src="https://img.shields.io/badge/npm-%2320232a?style=for-the-badge&logo=npm" />
   <img src="https://img.shields.io/badge/git-%2320232a?style=for-the-badge&logo=git" />
   <img src="https://img.shields.io/badge/mui-%230f1214?style=for-the-badge&logo=mui" />
 </div>
